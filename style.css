@@ -1,0 +1,16 @@
+#bcd-052008-widget-sbs-jump-top-button-2393{
+    width: /*width-s*/40px;/*width-e*/
+    height: /*height-s*/40px;/*height-e*/
+    opacity:0.5;
+    filter: alpha(opacity=10);
+    position:fixed;
+    bottom: /*bottom-s*/10px;/*bottom-e*/
+    right: /*right-s*/10px;/*right-e*/
+    display:none;
+    text-indent:-9999px;
+    background: url('https://4.bp.blogspot.com/-qZloxWsKxzQ/UVrk0-uUQ-I/AAAAAAAAENg/xzNqJz6byLE/s1600/bi-sbs-jump-top-button-image-008.png') no-repeat;
+}
+#bcd-052008-widget-sbs-jump-top-button-2393:hover{
+    opacity:0.6;
+    filter: alpha(opacity=60);
+}
